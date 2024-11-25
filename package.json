@@ -1,13 +1,15 @@
 {
-    "name": "meu-banco-json",
-    "version": "1.0.0",
-    "description": "Banco de dados simulado com JSON Server",
-    "main": "index.js",
-    "scripts": {
-        "start": "json-server --watch db.json --port $PORT --host 0.0.0.0"
-    },
-    "dependencies": {
-      "json-server": "^0.17.3"
-    }
+  "name": "my-website-database",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
   }
-  
+}
